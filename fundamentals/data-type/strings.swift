@@ -3,5 +3,9 @@
    For example: */
 
 var language: String = "Swift"
-print("The language used to developer iOS apps is: \(language)")
+var color: String = "Orange"
+let birthplace: String = "Cololmbia"
 
+print("The language used to developer iOS apps is: \(language)")
+print("Birth Place: \(birthplace)")
+print("Favourite Color: \(color)")
